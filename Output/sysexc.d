@@ -1,0 +1,9 @@
+..\output\sysexc.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib\sysexc.c
+..\output\sysexc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\sysexc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\sysexc.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+..\output\sysexc.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_sysctl.h
+..\output\sysexc.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_sysexc.h
+..\output\sysexc.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+..\output\sysexc.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+..\output\sysexc.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h

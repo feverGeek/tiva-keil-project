@@ -1,0 +1,9 @@
+..\output\ethernet.o: ..\Driverlib\src\ethernet.c
+..\output\ethernet.o: ..\..\project0\inc/hw_ethernet.h
+..\output\ethernet.o: ..\..\project0\inc/hw_ints.h
+..\output\ethernet.o: ..\..\project0\inc/hw_memmap.h
+..\output\ethernet.o: ..\..\project0\inc/hw_types.h
+..\output\ethernet.o: ..\driverlib\inc\debug.h
+..\output\ethernet.o: ..\driverlib\inc\ethernet.h
+..\output\ethernet.o: ..\driverlib\inc\sysctl.h
+..\output\ethernet.o: ..\driverlib\inc\interrupt.h

@@ -1,0 +1,15 @@
+..\output\lcddriver_1.o: ..\USER\LCDDriver.c
+..\output\lcddriver_1.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\lcddriver_1.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\lcddriver_1.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\lcddriver_1.o: ..\USER\LCDDriver.h
+..\output\lcddriver_1.o: F:\TivaWare_C_Series-2.1.4.178\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h
+..\output\lcddriver_1.o: F:\TivaWare_C_Series-2.1.4.178\TivaWare_C_Series-2.1.4.178\inc\hw_types.h
+..\output\lcddriver_1.o: ..\USER\gpio.h
+..\output\lcddriver_1.o: ..\USER\typedef.h
+..\output\lcddriver_1.o: F:\TivaWare_C_Series-2.1.4.178\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h
+..\output\lcddriver_1.o: F:\TivaWare_C_Series-2.1.4.178\TivaWare_C_Series-2.1.4.178\driverlib\rom.h
+..\output\lcddriver_1.o: F:\TivaWare_C_Series-2.1.4.178\TivaWare_C_Series-2.1.4.178\driverlib\rom_map.h
+..\output\lcddriver_1.o: ..\USER\LCD_Matrix.h
+..\output\lcddriver_1.o: F:\TivaWare_C_Series-2.1.4.178\TivaWare_C_Series-2.1.4.178\driverlib\ssi.h
+..\output\lcddriver_1.o: F:\TivaWare_C_Series-2.1.4.178\TivaWare_C_Series-2.1.4.178\driverlib\pin_map.h

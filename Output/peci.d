@@ -1,0 +1,9 @@
+..\output\peci.o: ..\Driverlib\src\peci.c
+..\output\peci.o: ..\..\project0\inc/hw_ints.h
+..\output\peci.o: ..\..\project0\inc/hw_memmap.h
+..\output\peci.o: ..\..\project0\inc/hw_peci.h
+..\output\peci.o: ..\..\project0\inc/hw_sysctl.h
+..\output\peci.o: ..\..\project0\inc/hw_types.h
+..\output\peci.o: ..\driverlib\inc\debug.h
+..\output\peci.o: ..\driverlib\inc\interrupt.h
+..\output\peci.o: ..\driverlib\inc\peci.h

@@ -1,0 +1,11 @@
+..\output\lcd.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib\lcd.c
+..\output\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\lcd.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+..\output\lcd.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+..\output\lcd.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+..\output\lcd.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_lcd.h
+..\output\lcd.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+..\output\lcd.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h
+..\output\lcd.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/lcd.h
+..\output\lcd.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/debug.h

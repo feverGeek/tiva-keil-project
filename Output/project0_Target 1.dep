@@ -1,0 +1,38 @@
+Dependencies for Project 'project0', Target 'Target 1': (DO NOT MODIFY !)
+F (..\USER\buck.c)(0x5CCEE5D7)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork -I..\USER -I..\inc -I..\Driverlib\inc-I C:\Users\linucys\Desktop\tiva-boost\Project\RTE-I F:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0-I F:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DTM4C1236E6PM -Drvmdk -DPART_LM4F110B2QR -DTARGET_IS_BLIZZARD_RA1-o ..\output\buck.o --omf_browse ..\output\buck.crf --depend ..\output\buck.d)
+I (F:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+I (F:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\Driverlib\inc\rom.h)(0x50C34B50)
+I (..\Driverlib\inc\adc.h)(0x5CC2F5B5)
+I (..\inc\hw_types.h)(0x54F1B40C)
+I (..\Driverlib\inc\sysctl.h)(0x54F1A33E)
+I (..\Driverlib\inc\pwm.h)(0x50C34B50)
+I (..\USER\gpio.h)(0x5CA202DE)
+I (..\USER\typedef.h)(0x5CA1A478)
+I (..\Driverlib\inc\pin_map.h)(0x50C34B50)
+I (..\inc\hw_ints.h)(0x50C34B50)
+I (..\inc\hw_memmap.h)(0x50C34B50)
+I (..\USER\LCDDriver.h)(0x5CCEE466)
+I (..\Driverlib\inc\rom_map.h)(0x50C34B50)
+I (..\inc\hw_gpio.h)(0x50C34B50)
+I (..\Driverlib\inc\interrupt.h)(0x50C34B50)
+F (..\USER\LCDDriver.c)(0x5CCEE45F)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork -I..\USER -I..\inc -I..\Driverlib\inc-I C:\Users\linucys\Desktop\tiva-boost\Project\RTE-I F:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0-I F:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DTM4C1236E6PM -Drvmdk -DPART_LM4F110B2QR -DTARGET_IS_BLIZZARD_RA1-o ..\output\lcddriver.o --omf_browse ..\output\lcddriver.crf --depend ..\output\lcddriver.d)
+I (F:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+I (F:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (F:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\USER\LCDDriver.h)(0x5CCEE466)
+I (..\inc\hw_memmap.h)(0x50C34B50)
+I (..\inc\hw_types.h)(0x54F1B40C)
+I (..\USER\gpio.h)(0x5CA202DE)
+I (..\USER\typedef.h)(0x5CA1A478)
+I (..\Driverlib\inc\sysctl.h)(0x54F1A33E)
+I (..\Driverlib\inc\rom.h)(0x50C34B50)
+I (..\Driverlib\inc\rom_map.h)(0x50C34B50)
+I (..\USER\LCD_Matrix.h)(0x53BBBDF2)
+I (..\Driverlib\inc\ssi.h)(0x54F1B42E)
+I (..\Driverlib\inc\pin_map.h)(0x50C34B50)
+I (..\Driverlib\inc\adc.h)(0x5CC2F5B5)
+F (..\StartCode\startup_rvmdk.S)(0x50C34B4E)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Users\linucys\Desktop\tiva-boost\Project\RTE-I F:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0-I F:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514" --pd "TM4C1236E6PM SETA 1"--list ..\listing\startup_rvmdk.lst --xref -o ..\output\startup_rvmdk.o --depend ..\output\startup_rvmdk.d)
+F (F:\TivaWare_C_Series-2.1.4.178\TivaWare_C_Series-2.1.4.178\driverlib\rvmdk\driverlib.lib)(0x5C9C40FA)()
+F (..\USER\LCDDriver.h)(0x5CCEE466)()
+F (..\USER\LCD_Matrix.h)(0x53BBBDF2)()

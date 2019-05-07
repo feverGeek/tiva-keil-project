@@ -1,0 +1,17 @@
+..\output\buck.o: ..\USER\buck.c
+..\output\buck.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\buck.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\buck.o: ..\Driverlib\inc\rom.h
+..\output\buck.o: ..\Driverlib\inc\adc.h
+..\output\buck.o: ..\inc\hw_types.h
+..\output\buck.o: ..\Driverlib\inc\sysctl.h
+..\output\buck.o: ..\Driverlib\inc\pwm.h
+..\output\buck.o: ..\USER\gpio.h
+..\output\buck.o: ..\USER\typedef.h
+..\output\buck.o: ..\Driverlib\inc\pin_map.h
+..\output\buck.o: ..\inc\hw_ints.h
+..\output\buck.o: ..\inc\hw_memmap.h
+..\output\buck.o: ..\USER\LCDDriver.h
+..\output\buck.o: ..\Driverlib\inc\rom_map.h
+..\output\buck.o: ..\inc\hw_gpio.h
+..\output\buck.o: ..\Driverlib\inc\interrupt.h

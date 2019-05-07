@@ -1,0 +1,15 @@
+..\output\main.o: ..\USER\DC-Motor\main.c
+..\output\main.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\main.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\main.o: ..\Driverlib\inc\rom.h
+..\output\main.o: ..\Driverlib\inc\rom_map.h
+..\output\main.o: ..\Driverlib\inc\adc.h
+..\output\main.o: ..\inc\hw_types.h
+..\output\main.o: ..\Driverlib\inc\sysctl.h
+..\output\main.o: ..\Driverlib\inc\pwm.h
+..\output\main.o: ..\USER\gpio.h
+..\output\main.o: ..\USER\typedef.h
+..\output\main.o: ..\Driverlib\inc\pin_map.h
+..\output\main.o: ..\inc\hw_ints.h
+..\output\main.o: ..\inc\hw_memmap.h
+..\output\main.o: ..\USER\DC-Motor\LCDDriver.h

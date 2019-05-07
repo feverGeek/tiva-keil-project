@@ -1,0 +1,16 @@
+..\output\led.o: ..\UserCode\src\led.c
+..\output\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\output\led.o: ..\driverlib\inc\ssi.h
+..\output\led.o: ..\driverlib\inc\sysctl.h
+..\output\led.o: ..\driverlib\inc\rom.h
+..\output\led.o: ..\driverlib\inc\rom_map.h
+..\output\led.o: ..\inc\hw_memmap.h
+..\output\led.o: ..\inc\hw_types.h
+..\output\led.o: ..\driverlib\inc\gpio.h
+..\output\led.o: ..\driverlib\inc\pin_map.h
+..\output\led.o: ..\inc\hw_ints.h
+..\output\led.o: ..\driverlib\inc\interrupt.h
+..\output\led.o: ..\UserCode\inc\key.h

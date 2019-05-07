@@ -1,0 +1,16 @@
+..\output\lcddriver.o: ..\USER\LCDDriver.c
+..\output\lcddriver.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\lcddriver.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\lcddriver.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\lcddriver.o: ..\USER\LCDDriver.h
+..\output\lcddriver.o: ..\inc\hw_memmap.h
+..\output\lcddriver.o: ..\inc\hw_types.h
+..\output\lcddriver.o: ..\USER\gpio.h
+..\output\lcddriver.o: ..\USER\typedef.h
+..\output\lcddriver.o: ..\Driverlib\inc\sysctl.h
+..\output\lcddriver.o: ..\Driverlib\inc\rom.h
+..\output\lcddriver.o: ..\Driverlib\inc\rom_map.h
+..\output\lcddriver.o: ..\USER\LCD_Matrix.h
+..\output\lcddriver.o: ..\Driverlib\inc\ssi.h
+..\output\lcddriver.o: ..\Driverlib\inc\pin_map.h
+..\output\lcddriver.o: ..\Driverlib\inc\adc.h

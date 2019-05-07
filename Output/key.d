@@ -1,0 +1,12 @@
+..\output\key.o: ..\USER\key.c
+..\output\key.o: ..\USER\key.h
+..\output\key.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\key.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\key.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+..\output\key.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+..\output\key.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_gpio.h
+..\output\key.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h
+..\output\key.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/gpio.h
+..\output\key.o: ..\USER\typedef.h
+..\output\key.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/pwm.h
+..\output\key.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/timer.h

@@ -1,0 +1,10 @@
+..\output\flash.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib\flash.c
+..\output\flash.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\flash.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\flash.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_flash.h
+..\output\flash.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+..\output\flash.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_sysctl.h
+..\output\flash.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+..\output\flash.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+..\output\flash.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/flash.h
+..\output\flash.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h

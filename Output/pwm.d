@@ -1,0 +1,11 @@
+..\output\pwm.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib\pwm.c
+..\output\pwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\pwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\pwm.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+..\output\pwm.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+..\output\pwm.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_pwm.h
+..\output\pwm.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_sysctl.h
+..\output\pwm.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+..\output\pwm.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+..\output\pwm.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+..\output\pwm.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/pwm.h

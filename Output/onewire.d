@@ -1,0 +1,12 @@
+..\output\onewire.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib\onewire.c
+..\output\onewire.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\onewire.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\onewire.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+..\output\onewire.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+..\output\onewire.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_onewire.h
+..\output\onewire.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_sysctl.h
+..\output\onewire.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+..\output\onewire.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+..\output\onewire.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+..\output\onewire.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/onewire.h
+..\output\onewire.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h

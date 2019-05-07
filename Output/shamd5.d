@@ -1,0 +1,11 @@
+..\output\shamd5.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib\shamd5.c
+..\output\shamd5.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\shamd5.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\shamd5.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+..\output\shamd5.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+..\output\shamd5.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_nvic.h
+..\output\shamd5.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_shamd5.h
+..\output\shamd5.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+..\output\shamd5.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+..\output\shamd5.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+..\output\shamd5.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/shamd5.h

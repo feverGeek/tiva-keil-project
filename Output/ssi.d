@@ -1,0 +1,11 @@
+..\output\ssi.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib\ssi.c
+..\output\ssi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\ssi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\ssi.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+..\output\ssi.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+..\output\ssi.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_ssi.h
+..\output\ssi.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_sysctl.h
+..\output\ssi.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+..\output\ssi.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+..\output\ssi.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+..\output\ssi.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/ssi.h

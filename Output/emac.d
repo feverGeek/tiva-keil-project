@@ -1,0 +1,12 @@
+..\output\emac.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib\emac.c
+..\output\emac.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\emac.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\emac.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+..\output\emac.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+..\output\emac.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+..\output\emac.o: ..\..\TivaWare_C_Series-2.1.4.178\inc/hw_emac.h
+..\output\emac.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+..\output\emac.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/emac.h
+..\output\emac.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h
+..\output\emac.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+..\output\emac.o: ..\..\TivaWare_C_Series-2.1.4.178\driverlib/sw_crc.h
